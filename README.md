@@ -1,5 +1,5 @@
 # RestServiceWithEureka
-Developping Rest Service using =>>
+Developping Rest Service using
 ----
 - [ ] Spring Boot as microservice-based Java web framework
 - [ ] Mongo as Database
